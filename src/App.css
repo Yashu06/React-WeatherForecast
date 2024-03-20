@@ -1,0 +1,95 @@
+.App{
+  text-align: center;
+}
+
+.row{
+  justify-content: center;
+  margin: 20px;
+}
+
+.bgimg{
+  /* margin-top: 10px; */
+  /* background-image: url("https://source.unsplash.com/1600x900/?landscape"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin: 5px; */
+  margin-top: 20px;
+  padding: 3px 0 3px 0;
+  /* height: 90vh; */
+}
+
+.form-control{
+  /* justify-content: center; */
+  /* padding: 5px; */
+  height: 6vh;
+  font-size: 15px;
+  /* width: 100%; */
+}
+
+.body{
+  margin: 40px;
+  justify-self: center;
+  text-align: center;
+  background-color: rgba(66, 66, 66, 0.359);
+  height: 300px;
+  padding: 5px;
+  /* position: relative;
+  width: 50%; */
+}
+
+.btn-primary{
+  margin: 10px;
+  border: none;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+.btn-primary:hover{
+  background-color: rgba(255, 255, 255, 0.444);
+}
+
+.card{
+  /* display: grid; */
+  /* border: 1px solid black; */
+  margin: 10px;
+  padding: 5px;
+  width: 100%;
+  align-items: center;
+}
+
+.card-title{
+  text-transform: capitalize;
+  font-size: 15px;
+}
+
+.card-body{
+  background-color: rgba(107, 107, 107, 0.13);
+  margin: 15px;
+  font-size: 10px;
+  width: 100%;
+}
+
+.card-img{
+  height: 100px;
+  width: 100px;
+}
+
+.card-group{
+  justify-content: center;
+}
+
+/* .card-group .card{
+  padding: 5px 5px !important;
+  height: auto !important;
+  justify-content: center;
+  margin: 2rem;
+}
+
+.card-img,
+.card-img-top,
+.card-img-bottom {
+    height: 10rem;
+    width: auto;
+    align-content: flex-start;
+}  */
+
+
+
